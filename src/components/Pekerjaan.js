@@ -41,6 +41,11 @@ const Pekerjaan = () => {
               </a>
             </div>
             {/* GAMBAR */}
+            <a
+              href="https://rahmatakmal26.github.io/portofolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               {/* HAMPARAN */}
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -61,6 +66,7 @@ const Pekerjaan = () => {
                 </span>
               </div>
             </div>
+            </a>
           </motion.div>
           <motion.div
             variants={Muncul("left", 0.2)}
@@ -70,6 +76,11 @@ const Pekerjaan = () => {
             className="flex-1 flex flex-col xl:gap-y-[64px] lg:gap-y-[133px] md:gap-y-[45px] sm:gap-y-[45px] smm:gap-y-[40px]"
           >
             {/* GAMBAR */}
+            <a
+              href="https://tokoserba35k.000webhostapp.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               {/* HAMPARAN */}
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -88,11 +99,17 @@ const Pekerjaan = () => {
               {/* JUDUL */}
               <div className="absolute -bottom-full left-12 xl:group-hover:bottom-14 lg:group-hover:bottom-14 md:group-hover:bottom-14 sm:group-hover:bottom-14 smm:group-hover:bottom-7 transition-all duration-700 z-50">
                 <span className="text-3xl text-white xl:text-3xl lg:text-3xl md:text-3xl sm:text-[23px] smm:text-[18px]">
-                Website E-COMMERCE "TOKO SERBA 35K" 
+                  Website Portofolio Pribadi Versi 4
                 </span>
               </div>
             </div>
+            </a>
             {/* GAMBAR */}
+            <a
+              href="https://rahmat-akmal.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               {/* HAMPARAN */}
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
@@ -111,10 +128,11 @@ const Pekerjaan = () => {
               {/* JUDUL */}
               <div className="absolute -bottom-full left-12 xl:group-hover:bottom-14 lg:group-hover:bottom-14 md:group-hover:bottom-14 sm:group-hover:bottom-14 smm:group-hover:bottom-7 transition-all duration-700 z-50">
                 <span className="text-3xl text-white xl:text-3xl lg:text-3xl md:text-3xl sm:text-[23px] smm:text-[15px]">
-                Website Portofolio Pribadi Versi 4
+                  Website E-COMMERCE "TOKO SERBA 35K"
                 </span>
               </div>
             </div>
+            </a>
           </motion.div>
         </div>
       </div>
