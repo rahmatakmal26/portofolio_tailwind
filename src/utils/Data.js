@@ -41,7 +41,7 @@ export const TautanSosialMedia = [
     id: 0,
     nama: "Github",
     ikon: <FaGithub />,
-    tautan: "https://github.com/fifovalle",
+    tautan: "https://github.com/rahmatakmal26",
   },
   {
     id: 1,
@@ -60,23 +60,23 @@ export const TautanSosialMedia = [
 export const LayananSaya = [
   {
     id: 0,
-    nama: "Web Design",
+    nama: "Karya Ilmiah",
     deskripsi:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eligendi sequi quas? Labore harum expedita consequatur eligendi.",
+      "Menyajikan hasil penelitian, mengembangkan ilmu pengetahuan serta memecahkan masalah dalam penelitian.",
     tautan: "Lihat Detail",
   },
   {
     id: 1,
     nama: "Web Development",
     deskripsi:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eligendi sequi quas? Labore harum expedita consequatur eligendi.",
+      "Menciptakan situs web yang fungsional dan memberikan pengalaman pengguna yang baik, dengan menyajikan informasi atau layanan secara efektif dan menghasilkan platform online.",
     tautan: "Lihat Detail",
   },
   {
     id: 2,
-    nama: "Solved Problems",
+    nama: "Web Desain",
     deskripsi:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eligendi sequi quas? Labore harum expedita consequatur eligendi.",
+      "Merancang tampilan visual dan antarmuka pengguna situs web yang menarik, dan selaras dengan identitas merek, memudahkan navigasi, dan meningkatkan pengalaman pengguna secara keseluruhan.",
     tautan: "Lihat Detail",
   },
 ];
