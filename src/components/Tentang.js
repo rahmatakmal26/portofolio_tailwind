@@ -33,7 +33,7 @@ const Tentang = () => {
           >
             <h2 className="h2 text-accent">Tentang Saya</h2>
             <h3 className="h3 mb-4">
-              Saya Seorang Web Developer Sudah Berkecimpung Sejak Tahun 2018
+              Saya Seorang Web Developer Sudah Berkecimpung Sejak Tahun 2022
             </h3>
             <p className="mb-6">
               Saya sudah 5 tahun berkecimpung di dunia programming ini dengan
