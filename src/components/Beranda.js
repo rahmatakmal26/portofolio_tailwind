@@ -60,9 +60,9 @@ const Beranda = () => {
                 sequence={[
                   "Web Developer",
                   2000,
-                  "Mahasiswa",
+                  "Fullstack Developer",
                   2000,
-                  "Freelancer",
+                  "AI Engineer",
                   2000,
                 ]}
                 speed={50}
